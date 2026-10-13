@@ -1,0 +1,2 @@
+# SWYNEX-TASK-2-PYTHON-FILE-ORGANIZER
+Python Automation Tool to Organize Files by Extension | SWYNEX TECHNOLOGIES INTERNSHIP
