@@ -49,3 +49,20 @@ Swynex_Task2/
 
 ## Learning Outcome
 This project demonstrates Python file handling, automation, directory management, and exception handling.
+## Sample Output
+
+```text
+===== PYTHON FILE ORGANIZER =====
+Enter the folder path to organize: C:\Users\User\Desktop\Task2_RealTest
+
+Organized: cleaned_student_data.csv
+Organized: correlation_matrix.csv
+Organized: eda_summary.csv
+Organized: student_data_cleaning.py
+Organized: student_performance_eda_task_2 - Copy.py
+Organized: student_performance_eda_task_2.py
+Organized: sushma_k_resume.pdf
+
+File organization completed!
+Total files moved: 7
+```
